@@ -33,4 +33,4 @@ Reports are saved to `reports/` as JSON and Markdown.
 
 ## License
 
-MIT
+Self
